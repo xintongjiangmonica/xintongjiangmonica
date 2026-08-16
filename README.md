@@ -1,102 +1,155 @@
-# Hi, I'm Xintong Jiang
+# Hi, I'm Xintong Jiang 👋
 
-Business Information Systems postgraduate at Monash University with a background in Mathematics and Applied Statistics.
+Master of Business Information Systems student at **Monash University**, with a background in **Mathematics and Applied Statistics** from the University of Toronto.
 
-I am interested in Data Analytics, Business Analysis, Product, Digital Transformation, and Information Systems.
+I am interested in using data, technology and business analysis to support better decision-making and digital transformation.
 
-## About Me
+My project experience covers:
 
-* Master of Business Information Systems at Monash University
-* Background in Mathematics and Applied Statistics
-* Interested in data-driven business decision making
-* Experience with data analysis, visualisation, business requirements, and Agile projects
-
-## Technical Skills
-
-**Data Analysis**
-
-* Python
-* R
-* SQL
-* Excel
-
-**Data Visualisation**
-
-* Power BI
-* Tableau
-* D3.js
-* ggplot2
-* Leaflet
-
-**Business Analysis**
-
-* User Stories
-* Acceptance Criteria
-* User Journey
-* Persona
-* Requirements Analysis
-* Stakeholder Analysis
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-
-## Featured Projects
-
-### GitHub Trending Data Analysis
-
-**Python | Web Scraping | GitHub REST API | Tableau**
-
-Collected and analysed GitHub Trending repository data using web scraping and the GitHub REST API.
-
-The project explores programming languages, stars, forks, contributors, and repository popularity.
-
-[View Project](PROJECT-LINK)
+- Business & Data Analysis
+- Data Visualisation
+- Decision Support Systems
+- Product & Requirements Analysis
+- Project Management & Agile Planning
 
 ---
 
-### Greater Melbourne Heat Exposure Analysis
+## 🔧 Skills
 
-**R | Spatial Analysis | Data Visualisation**
+### Data & Programming
+- Python
+- SQL
+- R
+- D3.js
+- JavaScript
 
-Analysed summer heat exposure and elderly population vulnerability across Greater Melbourne.
+### Business Intelligence & Visualisation
+- Power BI
+- Tableau
+- Excel
+- ggplot2
+- Leaflet
 
-The project combines weather station data, spatial boundaries, and population data to identify areas with higher heat-related vulnerability.
+### Business & Product Analysis
+- Requirements Analysis
+- User Stories & Acceptance Criteria
+- User Journey & Persona
+- Stakeholder Analysis
+- Cost-Benefit Analysis
+- Risk Analysis
 
-[View Project](PROJECT-LINK)
+### Project & Delivery
+- Agile / Scrum
+- Sprint Planning
+- WBS & Gantt Planning
+- Project Risk Management
+- Git & GitHub
 
 ---
 
-### Public Transport Service Inequality Analysis
+# 📌 Featured Projects
 
-**R | GTFS | Spatial Analysis**
+## 1. AI-Assisted Extreme Weather Warning — Business Case
 
-Analysed public transport accessibility and service inequality across Melbourne LGAs using GTFS data.
+**Business Analysis · AI Governance · Cost-Benefit Analysis · Digital Transformation**
 
-Key indicators include service frequency, operating span, mode availability, and weekday-weekend differences.
+Business case analysis for the Australian Bureau of Meteorology exploring how AI could support extreme-weather warning operations while maintaining appropriate human oversight and governance.
 
-[View Project](PROJECT-LINK)
+Key work included:
+
+- organisational and problem analysis;
+- comparison of three AI transformation options;
+- cost-benefit and investment analysis;
+- AI governance and human-in-the-loop design;
+- implementation roadmap and governance structure.
+
+[View Project →](https://github.com/xintongjiangmonica/bom-ai-transformation-business-case)
 
 ---
 
-### Calm Route – Sensory-Aware Navigation
+## 2. Greater Melbourne Heat Vulnerability Analysis
 
-**Business Analysis | Agile | Information Systems**
+**Data Analysis · D3.js · Spatial Analysis · Interactive Visualisation**
 
-Contributed to the design and documentation of a sensory-aware navigation system.
+Interactive analysis of summer heat exposure and elderly vulnerability across Greater Melbourne.
 
-My work included functional requirements, User Stories, Acceptance Criteria, User Journey, testing documentation, and project governance.
+The project combines weather-station data, population data and SA3 spatial boundaries to explore:
 
-[View Project](PROJECT-LINK)
+- changes in heat exposure over time;
+- geographic differences across Melbourne;
+- areas where high heat exposure overlaps with higher elderly vulnerability.
 
-## Education
+The results are presented through an interactive D3.js visualisation.
 
-### Monash University
+[View Project →](https://github.com/xintongjiangmonica/greater-melbourne-heat-vulnerability-analysis)
 
-**Master of Business Information Systems**
+---
 
-### University of Toronto
+## 3. PGA Circular Economy Decision Support
 
-**Mathematics and Applied Statistics**
+**System Dynamics · Decision Support · Scenario Analysis · Financial Analysis**
+
+System dynamics decision-support model developed to evaluate whether Prime Glass Australia should invest AUD 35 million in a glass recycling and cullet-processing facility.
+
+The model simulates production, recycling and financial performance over five years and supports:
+
+- investment vs. non-investment comparison;
+- circular material-flow analysis;
+- investment payback analysis;
+- marketing budget optimisation;
+- what-if scenario exploration.
+
+[View Project →](https://github.com/xintongjiangmonica/pga-circular-economy-decision-support)
+
+---
+
+## 4. LearningPath AI Platform Project Planning
+
+**Business Analysis · Project Management · Agile · Requirements Engineering**
+
+Project planning and Agile analysis for an AI-enabled online learning platform designed to improve student engagement and provide data-driven teaching support.
+
+The project covers:
+
+- business justification and project scope;
+- requirements traceability;
+- WBS and Gantt planning;
+- cost and risk management;
+- stakeholder analysis;
+- personas and user journeys;
+- Epics, User Stories and Acceptance Criteria;
+- Sprint and release planning.
+
+[View Project →](https://github.com/xintongjiangmonica/ai-learning-platform-project-planning)
+
+---
+
+# 🎯 Areas of Interest
+
+I am particularly interested in opportunities involving:
+
+- Business Analysis
+- Data Analysis
+- Product / Digital Product
+- Digital Transformation
+- Data-Driven Operations
+- Project Delivery
+- Decision Support
+
+---
+
+# 🎓 Education
+
+**Monash University**  
+Master of Business Information Systems
+
+**University of Toronto**  
+Mathematics and Applied Statistics
+
+---
+
+# 📫 Contact
+
+- GitHub: [xintongjiangmonica](https://github.com/xintongjiangmonica)
+- LinkedIn: *Add your LinkedIn profile here*
+- Email: *Add your preferred professional email here*

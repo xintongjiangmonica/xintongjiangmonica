@@ -151,5 +151,4 @@ Mathematics and Applied Statistics
 # 📫 Contact
 
 - GitHub: [xintongjiangmonica](https://github.com/xintongjiangmonica)
-- LinkedIn: *Add your LinkedIn profile here*
-- Email: *Add your preferred professional email here*
+- Email: *monica.jiang817@gmail.com* or *13813976076@163.com*
